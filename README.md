@@ -1,2 +1,29 @@
-# smart-task-orchestrator
-AI-inspired task orchestration platform with productivity analytics and team workflow tracking.
+# Smart Task Orchestrator
+
+A workflow and task prioritization dashboard designed to feel like an intelligent operations control center.
+
+## Features
+- Team execution dashboard
+- Task queue with priority tags
+- Workload allocation monitoring
+- Strategic milestone tracking
+
+## Tech Stack
+- React
+- Vite
+- JavaScript
+
+## Run locally
+```bash
+npm install
+npm run dev
+```
+
+Open: http://localhost:3000
+
+## Hiring angle
+This project highlights:
+- systems thinking
+- product operations awareness
+- workflow automation mindset
+- execution and prioritization skills
